@@ -561,7 +561,7 @@ public class HVMPayload {
 }
 ```
 
-其中`invokeBeanName`为调用的HVM合约的名字，`nvokeArgs`为调用的参数，`invokeMethods`为调用的合约方法
+其中`invokeBeanName`为调用的HVM合约的名字，`invokeArgs`为调用的参数，`invokeMethods`为调用的合约方法
 
 ### 交易体设置TxVersion
 
